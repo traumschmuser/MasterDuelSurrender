@@ -1,4 +1,4 @@
-# MasterDuelSurrender
+# Master Duel Surrender
 Master Duel Surrender Exploit. Konami, please fix this.
 
 This exploit allows you to surrender the opponent.
